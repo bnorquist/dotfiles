@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Ben Norquist
+#	email = bnorquist@bnorquist-mbp151.sfhq.lyft-corp.net
+[user]
+	email = bnorquist@lyft.com
+	name = Ben Norquist
+[push]
+	default = current
+[alias]
+	recent = for-each-ref --sort=-committerdate --count=10 --format='%(refname:short)' refs/heads/
+	reset-last = reset HEAD~
