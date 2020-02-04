@@ -14,7 +14,7 @@ export PATH="$HOME/bin:$PATH"
 export WORKSPACE="$HOME/src"
 
 # alias
-alias admin-session="oktaawsaccess clear && oktaawsaccess zimride-sudo-developer && python ~/scripts/set-admin-session-colors.py"
+alias admin-session="oktaawsaccess clear && oktaawsaccess zimride-sudo-developer && python /Users/bnorquist/Library/Application\ Support/iTerm2/Scripts/admin-session.py"
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/bnorquist/.oh-my-zsh"
@@ -112,3 +112,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+source '/Users/bnorquist/src/awsaccess/awsaccess2.sh' # awsaccess
+source '/Users/bnorquist/src/awsaccess/oktaawsaccess.sh' # oktaawsaccess
+export PS1="\$(ps1_mfa_context)$PS1" # awsaccess
