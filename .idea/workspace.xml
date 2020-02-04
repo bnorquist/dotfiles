@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb4a3fcc-2598-4528-9d3c-5b8329811b03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dotfiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XLxkegk69VGOjVYbVZGvcrpud7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4a3fcc-2598-4528-9d3c-5b8329811b03" name="Default Changelist" comment="" />
+      <created>1580839321067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580839321067</updated>
+      <workItem from="1580839324864" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1580839326071">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="519" y="329" key="com.intellij.ide.util.TipDialog/158.-1417.2560.1417/2718.-1417.2560.1417/0.23.1680.947@158.-1417.2560.1417" timestamp="1580839326071" />
+    <state x="1103" y="-1092" key="search.everywhere.popup" timestamp="1580839564428">
+      <screen x="158" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="1103" y="-1092" key="search.everywhere.popup/158.-1417.2560.1417/2718.-1417.2560.1417/0.23.1680.947@158.-1417.2560.1417" timestamp="1580839564428" />
+  </component>
+</project>
