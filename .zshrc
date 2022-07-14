@@ -13,8 +13,8 @@ export PATH="$HOME/bin:$PATH"
 # hacktools
 export WORKSPACE="$HOME/src"
 
-# alias
-alias admin-session="oktaawsaccess clear && oktaawsaccess zimride-sudo-developer && python /Users/bnorquist/Library/Application\ Support/iTerm2/Scripts/admin-session.py"
+# welcome message
+~/code/dotfiles/./make_bunny_sign.sh
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/bnorquist/.oh-my-zsh"
@@ -112,6 +112,5 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source '/Users/bnorquist/src/awsaccess/awsaccess2.sh' # awsaccess
-source '/Users/bnorquist/src/awsaccess/oktaawsaccess.sh' # oktaawsaccess
-export PS1="\$(ps1_mfa_context)$PS1" # awsaccess
+alias admin-session="oktaawsaccess clear && oktaawsaccess zimride-sudo-developer && python /Users/bnorquist/Library/Application\ Support/iTerm2/Scripts/admin-session.py"
+
